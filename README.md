@@ -2,9 +2,11 @@
 
 List of students' projects with corresponding links.
 
-| Name | Source |    Videos    | Technologies | Status |
+| Name | Source |    Videos    | Technologies |
 |------|--------|--------------|--------------|--------|
-|[Steven E - SokoBan]|[GitHub](https://github.com/mrBaraam/SokoBan)|[YouTube](https://www.youtube.com/watch?v=97mpy0alzWI)| UIKit, SpriteKit | Rejected |
+|[Steven E - SokoBan]|[GitHub](https://github.com/mrBaraam/SokoBan)|[YouTube](https://www.youtube.com/watch?v=97mpy0alzWI)| UIKit, SpriteKit |
+
+
 
 
 
